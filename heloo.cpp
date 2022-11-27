@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-cout << "Hello world";cambio desde remoto
+cout << "Hello world - cambio desde Github";
 return 0;
 }
